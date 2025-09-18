@@ -1,16 +1,43 @@
-# Student-Management-System
-This is a simple web-based application written in Java using Servlet and JSP.
+Student Management System
 
-## Features of Student Management System
-- Insert Basic details of a Student(Student ID, Name, Gender and CGPA)
-- Update any of the details of a Student
-- Delete a Student Record
-- Display the list of Students in the Database
+A simple web-based application built using Java, Servlets, and JSP to perform basic CRUD operations (Create, Read, Update, Delete) on student records. The application provides a user-friendly interface for managing student data and interacts with a backend database to store and retrieve student information.
 
-## Languages
-- Java
-- Servlet
-- JSP
-- Bootstrap
-- HTML5
-- CSS
+1. Features
+
+🔹 Add Student – Insert a new student with basic details like:
+
+Student ID
+
+Name
+
+Gender
+
+CGPA
+
+🔹 Update Student – Edit and update existing student records
+
+🔹 Delete Student – Remove a student from the database
+
+🔹 View Students – Display a list of all students stored in the database
+
+2. Tech Stack
+
+Backend:
+
+Java
+
+Servlet
+
+JSP (JavaServer Pages)
+
+Frontend:
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+Database:
+
+MySQL
