@@ -6,11 +6,11 @@ A simple web-based application built using Java, Servlets, and JSP to perform ba
 
 🔹 Add Student – Insert a new student with basic details like:
 
-Student ID
+I.Student ID
 
-Name
+II.Name
 
-Gender
+III.Gender
 
 CGPA
 
@@ -24,20 +24,20 @@ CGPA
 
 Backend:
 
-Java
+I.Java
 
-Servlet
+II.Servlet
 
-JSP (JavaServer Pages)
+III.JSP (JavaServer Pages)
 
 Frontend:
 
-HTML5
+I.HTML5
 
-CSS3
+II.CSS3
 
-Bootstrap
+III.Bootstrap
 
 Database:
 
-MySQL
+I.MySQL
